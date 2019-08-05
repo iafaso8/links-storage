@@ -35,7 +35,7 @@
     <!-- GOOGLE ICONS -->
 
     <!-- ICON -->
-    <link rel="icon" href="images and video/icon.png" type="image" />
+    <link rel="icon" href="assets/icon.png" type="image" />
     <!-- ICON -->
 
     <!-- CSS -->
@@ -64,21 +64,21 @@
                 </ul>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="images and video/logo-img.png" alt="Изображение на логото">
+                        <img src="assets/logo-img.png" alt="Изображение на логото">
                         <div class="carousel-caption content">
                             <h3>Търсиш удобно място за съхранение на линкове?</h3>
                             <p>Ние можем да ти го осигурим!</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="images and video/no-time.png" alt="Изображение на компютърни устройства">
+                        <img src="assets/no-time.png" alt="Изображение на компютърни устройства">
                         <div class="carousel-caption content">
                             <h3>Намери нещо интересно, но нямаш време да го разгледаш?</h3>
                             <p>Запиши тук линковете, които те интересуват и ги разгледай по-късно!</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="images and video/connection.jpg" alt="Изображение на компютърни устройства">
+                        <img src="assets/connection.jpg" alt="Изображение на компютърни устройства">
                         <div class="carousel-caption content">
                             <h3>Достъп по всяко време</h3>
                             <p>Получаваш постоянен достъп до записите си от всяко устройство, без значение къде се
@@ -162,7 +162,7 @@
 
             <!-- BACKGROUND VIDEO ON HOMEPAGE -->
             <video autoplay muted loop id="background-video">
-                <source src="images and video/background-video.mp4" type="video/mp4">
+                <source src="assets/background-video.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
             </video>
             <!-- BACKGROUND VIDEO ON HOMEPAGE -->
@@ -199,7 +199,7 @@
                 <h1 class="fadein-left-quickly">Защо хората ни харесват?</h1>
                 <div class="row">
                     <div class="avatar col-sm-4 fadein-left-slowly">
-                        <img src="images and video/avatar1.png" alt="Аватар">
+                        <img src="assets/avatar1.png" alt="Аватар">
                     </div>
                     <div class="jumbotron col-sm-8 fadein-left-quickly">
                         „Висчките ни потребители са доволни от нас, затова се връщат отново и отново!“
@@ -207,7 +207,7 @@
                 </div>
                 <div class="row">
                     <div class="avatar col-sm-4 fadein-left-slowly">
-                        <img src="images and video/avatar3.png" alt="Аватар">
+                        <img src="assets/avatar3.png" alt="Аватар">
                     </div>
                     <div class="jumbotron col-sm-8 fadein-left-quickly">
                         „Изключително бърза регистрация и лесно създаване на записи!“
@@ -215,7 +215,7 @@
                 </div>
                 <div class="row">
                     <div class="avatar col-sm-4 fadein-left-slowly">
-                        <img src="images and video/avatar2.png" alt="Аватар">
+                        <img src="assets/avatar2.png" alt="Аватар">
                     </div>
                     <div class="jumbotron col-sm-8 fadein-left-quickly">
                         „Лесен достъп до всички записи по всяко време.“

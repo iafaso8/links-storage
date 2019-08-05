@@ -40,7 +40,7 @@ ini_set('display_errors', 0);
 <div id="nav-div">
 <nav class="navbar navbar-expand-sm sticky-top">
     <!-- Brand -->
-    <a class="navbar-brand" href="index.php"><img id="logo-img" src="images and video/logo.png" alt="Logo"></a>
+    <a class="navbar-brand" href="index.php"><img id="logo-img" src="assets/logo.png" alt="Logo"></a>
     <!-- Links -->
     <ul class="navbar-nav">
         <li class="nav-item">

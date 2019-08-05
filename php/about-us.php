@@ -34,7 +34,7 @@
     <!-- GOOGLE ICONS -->
 
     <!-- ICON -->
-    <link rel="icon" href="images and video/icon.png" type="image" />
+    <link rel="icon" href="assets/icon.png" type="image" />
     <!-- ICON -->
 
     <!-- CSS -->
@@ -55,7 +55,7 @@
         <main>
             <!-- TOP IMAGE -->
             <div class="top-page-image">
-                <img src="images and video/logo-img.png" alt="Изображение">
+                <img src="assets/logo-img.png" alt="Изображение">
             </div>
             <div class="gray-line"></div>
             <!-- TOP IMAGE -->

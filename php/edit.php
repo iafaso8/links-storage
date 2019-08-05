@@ -34,7 +34,7 @@
 	<!-- GOOGLE ICONS -->
 
 	<!-- ICON -->
-    <link rel="icon" href="images and video/icon.png" type="image" />
+    <link rel="icon" href="assets/icon.png" type="image" />
 	<!-- ICON -->
 	
 	<!-- CSS -->
